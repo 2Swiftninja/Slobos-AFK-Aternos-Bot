@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "medusafish.aternos.host",
+    "ip": " pufferfish.aternos.host",
     "port": 45644,
     "version": "1.20.4",
     "try-creative": false
