@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "2Swiftninja.aternos.me",
+    "ip": "medusafish.aternos.host",
     "port": 45644,
     "version": "",
     "try-creative": false
